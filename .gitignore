@@ -8,3 +8,5 @@ log.csv
 ._*
 compile_commands.json
 .vscode/
+.settings/
+.mxproject
