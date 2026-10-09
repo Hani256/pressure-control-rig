@@ -1,0 +1,10 @@
+build
+mx.scratch
+!.settings
+__pycache__/
+*.pyc
+log.csv
+.DS_Store
+._*
+compile_commands.json
+.vscode/
